@@ -134,6 +134,10 @@ This is the setting most likely to bite you, so here's the honest version:
 | Detecting things that aren't the enemy dot | `COLOR_TOLERANCE` too high, or your target hex isn't as exclusive to the marker as you think — sample real screenshots before trusting a color |
 | Can't load the page on phone | Different WiFi network, or firewall blocking the port |
 
+## Note
+
+Built with the help of Claude (Anthropic).
+
 ## Contributing
 
 If you'd like to improve this, feel free to — just let me know what you
