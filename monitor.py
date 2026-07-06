@@ -3,7 +3,7 @@ Valorant minimap "last enemy sighting" recorder.
 
 Watches a 448x448 region in the top-left corner of a chosen window for two
 specific colors (enemy dots on the minimap). While either color is present
-it keeps grabbing frames. The instant the color disappears, it publishes the
+it keeps grabbing frames. The instant the colour disappears, it publishes the
 LAST frame that still had the color on it to a tiny local web server, so you
 can check your phone after a fight to see where the enemy last showed up.
 
